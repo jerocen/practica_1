@@ -24,6 +24,9 @@
       width: 442px;
       height: 100vh;
       background-color: #ffffff;
+      display: flex;
+      justify-content: center;
+      align-items: center;
 }
 
 #rojo
@@ -31,4 +34,9 @@
       width: 442px;
       height: 100vh;
       background-color: #ff0000;
+}
+
+img
+{
+      width: 278px;
 }
